@@ -1,0 +1,7 @@
+{
+    "notas": [
+        {"titulo":"Lavar los platos", "estado": "finalizado"},
+        {"titulo":"Sacar la basura", "estado": "progreso"},
+        {"titulo":"Sacar la basura", "estado": "pendiente"}
+    ]
+}
